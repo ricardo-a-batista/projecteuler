@@ -14,3 +14,6 @@ for the inquiring mind to delve into unfamiliar areas and learn new concepts in 
 recreational context.
 
 Find out more at [Project Euler](https://projecteuler.net/).
+
+
+- [Problem 1](/problem-1/)
